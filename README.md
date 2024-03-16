@@ -1,7 +1,3 @@
-# Guineas website
+# Portfolio website
 
-This is a website for my guinea pigs. It will use AWS and ReactJS
-
-## Technologies used
-
-Git and Github
+This is a website that i will use to link to projects that I create. Hope to add more in the future!
